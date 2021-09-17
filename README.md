@@ -37,3 +37,7 @@ GitHub Link - https://github.com/thamidurm/CS4622-ML-project
     - Tried to replace  `construction_year` with a duration instead. - This did not improve performance.
     - Amount_Tsh per population was also calculated - also did not improve performance
     - Log of continuous values were tried out - they did not improve performance as well.
+
+## Proof of Submission
+
+![Proof of Submission](images/submission.png)
